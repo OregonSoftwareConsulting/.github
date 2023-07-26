@@ -1,1 +1,1 @@
-# .github
+# Oregon Software Consulting Club
